@@ -1,5 +1,7 @@
 # face-detection-js #
 
+![](screens/face-detection.jpg)
+
 Working with TrackinJS to face detection with JavaScript
 
 Author: [Francis Rodrigues](https://github.com/francisrod01)
